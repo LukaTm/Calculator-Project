@@ -1,5 +1,5 @@
 # Calculator-Project
 
-Calculator-Project from Oding Project
+Calculator-Project from Odin Project
 
 Basic Calculator
